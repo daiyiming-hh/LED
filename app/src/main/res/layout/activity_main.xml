@@ -9,15 +9,17 @@
     <android.support.v7.widget.RecyclerView
         android:id="@+id/mRvList"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:paddingTop="60dp"/>
 
     <ImageView
-        android:contentDescription="@null"
-        android:background="@drawable/ic_add_bg"
-        android:layout_alignParentBottom="true"
-        android:src="@drawable/ic_add"
-        android:scaleType="center"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/ic_add_bg"
+        android:contentDescription="@null"
+        android:scaleType="center"
+        android:src="@drawable/ic_add"/>
 
 </RelativeLayout>
