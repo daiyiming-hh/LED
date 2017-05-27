@@ -1,114 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0ea4a21b-1c3f-432c-a50b-47c068bbd9ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_add_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_add_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_add_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_add_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/ic_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/ic_add_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-00-51-953.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-01-06-599.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-05-12-912.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-05-22-433.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-07-55-169.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-07-57-746.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-08-50-795.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-08-55-504.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-09-29-463.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-09-31-456.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-10-16-799.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-10-18-349.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-12-42-359.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-14-22-690.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-14-28-626.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-19-55-854.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-20-08-483.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-23-57-461.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-24-02-150.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-24-08-162.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-27-17-24-14-693.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/anko_common_0_10_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/anko_commons_0_10_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/annotations_13_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_solver_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_integration_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javawriter_2_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_annotation_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jsr305_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/kotlin_stdlib_1_1_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/kotlin_stdlib_jre7_1_1_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LED.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/androidTest/java/dym/unique/led/ExampleInstrumentedTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/dym/unique/led/MainActivity.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/test/java/dym/unique/led/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/version.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="LED.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2258,6 +2157,14 @@
       <option name="presentableId" value="Default" />
       <updated>1495877034983</updated>
     </task>
+    <task id="LOCAL-00001" summary=" first commit">
+      <created>1495879341581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1495879341581</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
